@@ -19,7 +19,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'mirai'
+rootProject.name = 'mirai-japt'
 
 include(':mirai-japt')
 
