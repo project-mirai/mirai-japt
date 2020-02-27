@@ -1,2 +1,3 @@
 # mirai-japt
-mirai的java实现版
+
+Mirai 的 Java API
